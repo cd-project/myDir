@@ -1,0 +1,4 @@
+D:\Game Project\Whack-a-mole\Debug\Whack-a-mole.vcxproj.CopyComplete
+D:\Game Project\Whack-a-mole\Debug\Whack-a-mole.exe
+D:\Game Project\Whack-a-mole\Debug\Whack-a-mole.pdb
+D:\Game Project\Whack-a-mole\Debug\SDL2d.dll
